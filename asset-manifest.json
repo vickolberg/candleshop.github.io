@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FakePhone.github.io/static/css/main.dce24592.css",
+    "main.js": "/FakePhone.github.io/static/js/main.261134ff.js",
+    "static/media/logo.png": "/FakePhone.github.io/static/media/logo.5510fd140c4344dd9172.png",
+    "index.html": "/FakePhone.github.io/index.html",
+    "main.dce24592.css.map": "/FakePhone.github.io/static/css/main.dce24592.css.map",
+    "main.261134ff.js.map": "/FakePhone.github.io/static/js/main.261134ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dce24592.css",
+    "static/js/main.261134ff.js"
+  ]
+}
