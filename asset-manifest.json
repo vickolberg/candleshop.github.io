@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/FakePhone.github.io/static/css/main.dce24592.css",
-    "main.js": "/FakePhone.github.io/static/js/main.261134ff.js",
-    "static/media/logo.png": "/FakePhone.github.io/static/media/logo.5510fd140c4344dd9172.png",
-    "index.html": "/FakePhone.github.io/index.html",
-    "main.dce24592.css.map": "/FakePhone.github.io/static/css/main.dce24592.css.map",
-    "main.261134ff.js.map": "/FakePhone.github.io/static/js/main.261134ff.js.map"
+    "main.css": "/candleshop.github.io/static/css/main.be366aa9.css",
+    "main.js": "/candleshop.github.io/static/js/main.ed8facda.js",
+    "static/media/candleimage.png": "/candleshop.github.io/static/media/candleimage.a61148722559763b25a3.png",
+    "static/media/neutralcolors.png": "/candleshop.github.io/static/media/neutralcolors.adb7bf44f3599ef2b288.png",
+    "static/media/logo.png": "/candleshop.github.io/static/media/logo.1bd3e25f33503518c57d.png",
+    "index.html": "/candleshop.github.io/index.html",
+    "main.be366aa9.css.map": "/candleshop.github.io/static/css/main.be366aa9.css.map",
+    "main.ed8facda.js.map": "/candleshop.github.io/static/js/main.ed8facda.js.map"
   },
   "entrypoints": [
-    "static/css/main.dce24592.css",
-    "static/js/main.261134ff.js"
+    "static/css/main.be366aa9.css",
+    "static/js/main.ed8facda.js"
   ]
 }
